@@ -1,0 +1,6 @@
+Source: public Google Play listing
+App: Nusuk | نسك
+Package: com.moh.nusukapp
+Publisher: Ministry of Hajj and Umrah (listed as Ministry of Hajj and Umra)
+URL: https://play.google.com/store/apps/details?id=com.moh.nusukapp
+These are official public store screenshots. Do not add official logos separately.
